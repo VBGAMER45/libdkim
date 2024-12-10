@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libdkim", "libdkim.vcxproj", "{097A6FD9-A136-4257-A4C6-14801E20519C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{097A6FD9-A136-4257-A4C6-14801E20519C}.Debug|x86.ActiveCfg = Debug|Win32
+		{097A6FD9-A136-4257-A4C6-14801E20519C}.Debug|x86.Build.0 = Debug|Win32
+		{097A6FD9-A136-4257-A4C6-14801E20519C}.Release|x86.ActiveCfg = Release|Win32
+		{097A6FD9-A136-4257-A4C6-14801E20519C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {884C16BB-63CB-459C-A1FE-07DEDB7F4107}
+	EndGlobalSection
+EndGlobal
